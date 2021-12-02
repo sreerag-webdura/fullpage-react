@@ -1,6 +1,5 @@
 /* eslint-disable import/no-extraneous-dependencies */
 import React from "react"
-import "fullpage.js/vendors/scrolloverflow" // Optional. When using scrollOverflow:true
 import ReactFullpage from "@fullpage/react-fullpage"
 
 import SectionOne from "../SectionOne/SectionOne"
