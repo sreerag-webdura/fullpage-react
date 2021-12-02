@@ -7,7 +7,7 @@ import SectionOne from "../SectionOne/SectionOne"
 const MySection = ({ content }) => {
   return (
     <div className="section text-center flex">
-      <h1>{content}</h1>
+      <h1 className="animate__animated animate__bounceInUp">{content}</h1>
     </div>
   )
 }
